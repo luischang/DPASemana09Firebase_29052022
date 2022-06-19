@@ -17,10 +17,16 @@
     <string name="menu_registro">Register</string>
     <string name="menu_listado">List</string>
     <string name="menu_mascota">Pet</string>
+    <string name="menu_customer">Customer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="valtitlecourse">Course Register</string>
     <string name="valtxtdescription">Entry a description</string>
     <string name="valtxtscore">Entry a score</string>
     <string name="valbtnsave">Save course</string>
+    <string name="valtitlecustomer">Customer</string>
+    <string name="valtxtfirstname">FIrst name</string>
+    <string name="valtxtlastname">Last name</string>
+    <string name="valtxtphone">Phone</string>
+    <string name="valbtnsavedb">Save</string>
 </resources>
